@@ -84,7 +84,7 @@ Error generating stack: `+M.message+`
             ${o?"opacity-100 translate-y-0":"opacity-0 translate-y-5"}        
     `,children:"Projects"}),_e.jsx("a",{href:"#contact",onClick:()=>e(!1),className:`text-2xl font-semibold text-white my-4 transform transition-transform duration-300
             ${o?"opacity-100 translate-y-0":"opacity-0 translate-y-5"}        
-    `,children:"Contact"})]}),Rh=({children:o})=>{const e=wi.useRef(null);return wi.useEffect(()=>{const t=new IntersectionObserver(([n])=>{n.isIntersecting&&e.current.classList.add("visible")},{threshold:.2,rootMargin:"0px 0px -50px 0px"});return e.current&&t.observe(e.current),()=>t.disconnect()}),_e.jsx("div",{ref:e,className:"reveal",children:o})},$M="/JohnCarloPortfolio1/assets/myPic-C8NGf4g-.jpg",ZM=()=>_e.jsxs("section",{id:"home",className:"min-h-screen flex items-center justify-center relative overflow-hidden",children:[_e.jsx("style",{children:`
+    `,children:"Contact"})]}),Rh=({children:o})=>{const e=wi.useRef(null);return wi.useEffect(()=>{const t=new IntersectionObserver(([n])=>{n.isIntersecting&&e.current.classList.add("visible")},{threshold:.2,rootMargin:"0px 0px -50px 0px"});return e.current&&t.observe(e.current),()=>t.disconnect()}),_e.jsx("div",{ref:e,className:"reveal",children:o})},$M="/johncarlo-portfolio/assets/myPic-C8NGf4g-.jpg",ZM=()=>_e.jsxs("section",{id:"home",className:"min-h-screen flex items-center justify-center relative overflow-hidden",children:[_e.jsx("style",{children:`
         @keyframes float {
           0%, 100% { transform: translateY(0px); }
           50% { transform: translateY(-10px); }
