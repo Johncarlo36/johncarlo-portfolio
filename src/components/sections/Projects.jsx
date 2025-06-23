@@ -46,7 +46,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="https://cl-tech-front-john-carlo-568ewhtil.vercel.app/"
+                  href="https://https:/cltechjohncarlo.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors"
